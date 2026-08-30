@@ -1,14 +1,16 @@
 # CodSoft ML Internship Projects
 
-This repository contains two completed machine learning projects from the CodSoft internship:
+This repository contains three completed machine learning projects from the CodSoft internship:
 
 1. Movie Genre Classification
 2. Spam SMS Detection
+3. Customer Churn Prediction
 
 ## Project Structure
 
 - `task1_movie_genre/` — movie genre classification using text-based logistic regression
 - `task4_spam_sms/` — spam SMS detection using TF-IDF + SMOTE + LinearSVC
+- `task3_customer_churn/` — customer churn prediction using a Random Forest model
 - `Genre Classification Dataset/` — training dataset for the movie project
 - `spam.csv` — SMS dataset for the spam detection project
 - `requirements.txt` — Python dependencies
